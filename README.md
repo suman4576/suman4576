@@ -1,50 +1,68 @@
-# 👋 Hi, I'm Suman Kumar
+# Hi, I'm Suman Kumar
 
-### 💻 Data Entry Operator | Computer Operator | ADCA Certified
+**Computer Operations | Data Entry & Documentation | ADCA Certified**
 
 📍 Purnea, Bihar, India
 
-I’m a computer-focused professional interested in **Data Entry, Computer Operations, MS Office, Documentation, Data Management and Digital Technologies**.
+I am building practical skills in computer operations, data management, office productivity, and basic web technologies. I enjoy organizing information, creating clear documents, and learning through hands-on projects.
 
-### 🛠️ Skills
+## About Me
 
-* 💻 Computer Operations
-* 📊 Data Entry & Data Management
-* 📈 Microsoft Excel
-* 📝 Microsoft Word
-* 🎞️ Microsoft PowerPoint
-* ⌨️ Hindi & English Typing
-* 🐙 Git & GitHub
-* 🌐 Basic HTML & CSS
+- ADCA-certified computer applications learner
+- Interested in data entry, documentation, and digital productivity
+- Comfortable with Microsoft Word, Excel, and PowerPoint
+- Practicing Hindi and English typing
+- Learning Git, GitHub, HTML, CSS, and web development
+- Open to beginner-friendly projects, learning opportunities, and collaboration
 
-### 🎓 Certification
+## Skills
+
+| Area | Skills |
+|---|---|
+| Office tools | Microsoft Word, Excel, PowerPoint |
+| Data work | Data entry, record organization, sorting, filtering, basic summaries |
+| Documentation | Formatting, tables, reports, applications, PDF preparation |
+| Computer operations | File management, internet tools, email, digital platforms |
+| Development basics | HTML, CSS, Git, GitHub |
+| Languages | Hindi and English typing |
+
+## Certification
 
 **ADCA — Advanced Diploma in Computer Applications**
 
-### 🚀 Currently Learning
+## Projects and Practice
 
-`Git & GitHub` • `Excel` • `HTML` • `CSS` • `Web Technologies`
+- **[Portfolio Website](https://github.com/suman4576/portfolio)** — A personal portfolio project for practicing web presentation and digital skills.
+- **Data-entry practice** — Building sample spreadsheets for organized records, filtering, and basic summaries.
+- **Document-formatting practice** — Creating structured letters, reports, tables, and application documents.
 
-### 🎯 Goal
+> Practice projects are labeled honestly and will be linked here as their repositories are completed.
 
-> Learn new skills, build practical projects, and grow professionally in the digital & technology field. 🚀
+## Currently Learning
 
-### 📊 GitHub Stats
+`Advanced Excel` · `Git & GitHub` · `HTML` · `CSS` · `Basic web development` · `Data organization`
+
+## Goals
+
+- Build and publish useful beginner-friendly projects
+- Improve spreadsheet and data-management skills
+- Develop a stronger web and GitHub portfolio
+- Grow into professional computer and digital-work opportunities
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suman4576&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suman4576&show_icons=true&theme=tokyonight&hide_border=true" alt="Suman's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman4576&layout=compact&theme=tokyonight&hide_border=true" alt="Suman's most used languages" />
 </p>
 
-### 🤝 Let's Connect
+## Connect
 
-<p align="center">
-  <a href="https://github.com/suman4576">
-    <img src="https://img.shields.io/badge/GitHub-suman4576-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- GitHub: [@suman4576](https://github.com/suman4576)
+- Portfolio: [suman4576/portfolio](https://github.com/suman4576/portfolio)
 
 ---
 
-<p align="center">
-  ⭐ <b>Learn • Build • Grow</b> 🚀
-</p>
+**Learn · Practice · Build · Grow**
+
+_Last updated: September 2026_
